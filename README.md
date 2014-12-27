@@ -16,4 +16,4 @@ This project is a simple security system using two Raspberry Pi's and a set of d
 
 ## Let's get started
 
-To be announced.
+Please read following [tutorial](http://blog.cedricve.me/home-surveillance-magnetic-door-protection-with-text-to-speech), you will find a complete explanation and setup.
