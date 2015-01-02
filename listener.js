@@ -9,7 +9,7 @@ var listenerPort = 1337;
 net.createServer(function (socket)
 {
     // Handle incoming messages from the magnet controller.
-    socket.on('data', function (data)
+    socket.once('data', function (data)
     {
         // Translate the message from the magnet controlelr to speech
         // Speech will be send to audio device.
